@@ -62,6 +62,15 @@ I am a first year Software Engineer currently attaining my Bachelor's Degree at 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p>
+  <hr>
+  
+### Spotify Playing 🎧
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<br/>
+ 
+ <hr>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drex72&theme=dark&background=000000)](https://git.io/streak-stats)
 | <a href="https://github.com/Drex72/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Drex72&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Drex's github stats" /></a> | <a href="https://github.com/Drex72/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drex72&layout=compact&theme=buefy&hide_border=true" /></a> |
