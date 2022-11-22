@@ -1,5 +1,9 @@
 ### Hi there, I'm [Okunoye David] a.k.a Drex
 
+This user is interested in: 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Frontend+Development;Backend+Development;DevOps;Technical+Writing;Teaching+kids+tech)](https://git.io/typing-svg)
+
 I am a first year Software Engineer currently attaining my Bachelor's Degree at [University of Lagos](https://unilag.edu.ng), Nigeria. Apart from that I am seasonal Software Engineer that loves writing articles (on Web Development, Devops, Productivity and School Tips) and contributing to open source.
 
 **My Reseach Interest**:
